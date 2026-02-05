@@ -1,0 +1,7 @@
+main img{
+       max-height: 250px;
+}
+main .card-last img {
+    max-height: 200px;
+    padding: 10px 10px;
+}
